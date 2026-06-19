@@ -32,6 +32,10 @@ body {
   text-align: center;
 }
 
+.title-black {
+  color: #000000;
+}
+
 .bottom-nav {
   padding: 1.5rem;
   text-align: center;
