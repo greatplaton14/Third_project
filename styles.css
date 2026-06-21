@@ -26,6 +26,10 @@ body {
   justify-content: center;
 }
 
+.heading-group {
+  text-align: center;
+}
+
 .title {
   color: #cc0000;
   font-size: 3rem;
@@ -34,6 +38,12 @@ body {
 
 .title-black {
   color: #000000;
+}
+
+.subtitle-gold {
+  color: #d4af37;
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
 }
 
 .bottom-nav {
